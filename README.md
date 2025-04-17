@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Sherry</h1>
 <h3 align="center"> I'm passionate about good looking tools that boost productivity! </h3>
-<p align="center">  “Any program is only as good as it is useful.”   -Linus Torvalds. </p>
 
 <br>
 
-- 🌱 Currently learning **Flask/Machine Learning**
+- 🌱 Currently learning **Golang/Databricks**
 
 - 📫 **dbsherry890@gmail.com**
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-sherry890" height="18" width="24" /> **www.linkedin.com/in/daniel-sherry890/**
