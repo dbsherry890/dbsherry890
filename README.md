@@ -3,7 +3,7 @@
 
 <br>
 
-- Currently learning **Go and C**
+- Currently learning **Kubernetes, Go and C**
 
 - 📫 **dbsherry890@gmail.com**
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-sherry890" height="18" width="24" /> **www.linkedin.com/in/daniel-sherry890/**
